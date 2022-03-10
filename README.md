@@ -1,4 +1,4 @@
-## Oi, eu sou a Ismael
+## 01101111 01101001 
 <div align="center">
   <a href="https://github.com/Ismael-Gabri">
   <img height="180em" img width="41%" src="https://github-readme-stats.vercel.app/api?username=Ismael-Gabri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
