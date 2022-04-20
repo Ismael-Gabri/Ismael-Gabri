@@ -9,7 +9,7 @@ Here are some of my social media contacts 🌎
 💻 Discord
 
 <div>
-  <img align="right" alt="Ismael-pic" height="150" style="border-radius:50px;" src="file:///C:/Users/ismae/OneDrive/%C3%81rea%20de%20Trabalho/MyFiles/Fotos/tumblr_6f3cdcacd367af92338a938c1eef19d7_92019713_500.webp">
+  <img align="right" alt="Ismael-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv">
 </div>
   
   ##
