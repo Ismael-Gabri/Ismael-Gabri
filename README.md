@@ -1,4 +1,4 @@
-# 🏄‍♂️ Ismael Gabri
+# 🛰️ Ismael Gabri
 
 **`Digital Explorer (Developer/Creator)`**
 
