@@ -1,8 +1,8 @@
 # 🏄‍♂️ Ismael Gabri
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Explorer (Developer/Creator)`**
 
-I am an Professional web developer and content creator building my tools out of the digital world one step at a time. All coding project are built from me and you can see the explanation of each project in my Youtube channel.
+I am an Professional web developer and content creator building my tools out of the digital world one step at a time. All coding projects are built from me and you can see the explanation of each project in my Youtube channel. 
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
