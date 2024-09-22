@@ -50,14 +50,6 @@ I am an Professional web developer and content creator building my tools out of 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@IsmaelGabri?sub_confirmation=1)
 
 #
-
-
-### 📊 Stats
-
-<p align="center">
-  <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ismael-Gabri&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-</p>
-
 #
 <!--
 <details>
