@@ -50,7 +50,6 @@ I am an Professional web developer and content creator building my tools out of 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@IsmaelGabri?sub_confirmation=1)
 
 #
-#
 <!--
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
